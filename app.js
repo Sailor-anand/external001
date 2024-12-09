@@ -4,7 +4,7 @@ app.get('/',(req,res)=>{
   res.send("Hello world");
 }
 );
-app.listen(30,()=>{
-  console.log("server is at 30");
+app.listen(25,()=>{
+  console.log("server is at 25");
 }
            );
